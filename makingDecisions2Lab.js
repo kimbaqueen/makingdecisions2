@@ -33,7 +33,7 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 let arrayLength = family.length;
 
 for (i = 0; i <= arrayLength; i++) {
-  // console.log(family[i]);
+  console.log(family[i]);
 }
 
 
